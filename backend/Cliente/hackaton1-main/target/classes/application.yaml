@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: Fabrizio
+  data:
+    mongodb:
+      uri: mongodb+srv://Fabrizio_Ramirez:vallegrande2026@31-fabrizio-ramirez.2fy2jwr.mongodb.net/hackacton?retryWrites=true&w=majority
+
+server:
+  port: 8080
